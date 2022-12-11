@@ -113,5 +113,3 @@ or just message me on discord `winword.zip#0036` If I dont answer then your mess
 # Like what I do and want to support my work?
 
 Buy me a coffee: [buymeacoffee/chokunplayz](http://buymeacoffee.com/chokunplayz)
-
-this goes towards my morning chocolate, anything helps
