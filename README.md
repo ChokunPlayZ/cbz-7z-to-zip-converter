@@ -32,6 +32,8 @@ python3 main.py
 7. wait till it finishes
 8. Enjoy your Books!
 
+the converted files will be in the `output` folder
+
 ## If you have problems read here!
 
 Here's are some problems I encounter during development you might find helpful
