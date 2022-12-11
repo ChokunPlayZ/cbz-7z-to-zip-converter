@@ -2,7 +2,7 @@
 
 ## What is this?
 
-CBZ ebook file is just a zip or 7z file underneth, so now there will be clueless people out there package their book using 7z format which is not supported by most ebook management software like "Komga" due to limited libary and the format being old, this tool will help you convert that CBZ 7z to zip, it can even do batches of it in case you get a lot of 7z file you want to convert!
+CBZ ebook file is just a zip file underneth but it is possible to use 7z, so there will be people out there package their book using 7z format which is not supported by most ebook management software like "Komga" due to limited libary and the format being old, this tool will help you convert that CBZ 7z to zip, it can even do batches of it in case you get a lot of 7z file you want to convert!
 
 ## How Does it works?
 
