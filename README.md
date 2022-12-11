@@ -71,6 +71,7 @@ if it isn't there find where your python bin location is
 ```bash
 echo 'export PATH=<YOUR PYTHON BIN DIR>:$PATH' >> $HOME/.zshrc
 ```
+if you're using bash instead of zsh replace the `.zshrc` with `.bashrc`
 
 change the bin directroy and run it and you should be ready to go!
 
