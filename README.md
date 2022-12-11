@@ -49,7 +49,7 @@ here's a quick fix for macos users!
 print out your `PATH` varible
 
 ```shell
-# echo $PATH
+echo $PATH
 ```
 
 make sure there is a python directory in there it should looks somthing like this
