@@ -61,7 +61,7 @@ print(f'[info] Listing Input Folder Contents \n > {inputdir}')
 # loop all files in "input" dir
 for i in inputdir :
     # check if the filename extenstion is not ".cbz"
-    if os.path.splitext('my_file.txt') != "cbz" :
+    if os.path.splitext(i)[1] != ".cbz" :
         # Skip file
         pass
     # if the above statement is incorrect
