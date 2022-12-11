@@ -36,9 +36,11 @@ python3 main.py
 
 Here's are some problems I encounter during development you might find helpful
 
-1. PAtool not found
+### 1. PAtool not found
 
-```
+Error:
+
+```bash
 ValueError: patool not found! Please install patool!
 ```
 
@@ -77,6 +79,31 @@ patool
 ```
 
 there should be an output if not then you might got other problems
+
+---
+
+
+
+### 2. could not find an executable program to extract format 7z
+
+Error:
+
+```bash
+patool error: error extracting book.cbz: could not find an executable program to extract format 7z; candidates are (7z,7za,7zr),
+```
+
+this should be easy to fix in windows just install 7zip
+
+for macos/linux install [homebrew](https://brew.sh/) and run this
+
+```bash
+ brew install p7zip
+```
+
+this should make it work
+
+---
+
 
 
 if there is any other problems feel free to open an issue, I'll answer ASAP
